@@ -1,0 +1,42 @@
+.grey{
+background: grey;
+height: 15vh;
+width: 100vw;
+}
+.bluein_grey{
+    background: rgb(59, 114, 255);
+    height: 12vh;
+    width: 12vw;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+
+}
+.white{
+    background: white;
+height: 35vh;
+width: 100vw;
+
+}
+
+.para {
+    font-size: 175%;
+    position: absolute;
+    top: 25%;
+}
+
+.blue{
+    background: rgb(59, 114, 255);
+    height: 15vh;
+    width: 100vw;
+}
+.baby{
+    background: rgb(100, 250, 252);
+    height: 15vh;
+    width: 100vw;
+}
+.yellow{
+    background: yellow;
+    height: 15vh;
+    width: 100vw;
+}
