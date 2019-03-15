@@ -8,7 +8,15 @@ body {
 .header {
   width: 100%;
   height: 20vh;
-  background-color: #444444;
+  background-color: #256763;
+}
+.header2 {
+  width: 100%;
+  height: 20vh;
+  border-top:5px rgb(111, 78, 78) solid ;
+  border-bottom: 5px rgba(157, 184, 61, 0.892) solid; 
+  background-color: #f2c6c6;
+  
 }
 
 .main-content {
@@ -16,11 +24,25 @@ body {
   margin: 0 auto;
   width: 75%;
   height: 70vh;
+  position: absolute;
+  right: 0;
+  top: 0
+}
+.circle {
+  background-color: aqua;
+  height: 10vh;
+  width: 10vw;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+
 }
 
 .footer { 
   background-color: #222222;
+  border-radius: 50%;
   margin: 0 auto;
-  width: 75%;
-  height: 10vh;
+  width: 20%;
+  height: 20%;
 }

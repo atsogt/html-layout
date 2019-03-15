@@ -1,0 +1,70 @@
+.square{
+    background: white;
+    height: 25vh;
+    width: 98vw;
+    border: 7px solid black;
+}
+.square2{
+    background: purple;
+    height: 16vh;
+    width: 4vw;
+    position: absolute;
+    top: 9%;
+    left: 2%
+
+}
+.green{
+    background: rgb(59, 199, 59);
+    height: 20vh;
+    width: 25vw;
+    position: absolute;
+    top: 5%;
+    left: 8%
+
+}
+.circle {
+    background: rgb(125, 236, 255);
+    height: 20vh;
+    width: 10vw;
+    border-radius: 100%;
+    position: absolute;
+    top: 5%;
+    left: 40%
+}
+.spotted {
+    background: white;
+    height: 30vh;
+    width: 98vw;
+    border: 10px dotted black;
+    position: absolute;
+    top: 30%;
+}
+.shadow {
+    background: rgba(206, 210, 173, 0.836);
+    height: 23vh;
+    width: 85vw;
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    box-shadow: 15px 15px rgba(128, 128, 128, 0.776);
+
+}
+.white-box {
+    background: rgba(232, 232, 232, 0.836);
+    height: 23vh;
+    width: 85vw;
+    position: absolute;
+    top: 65%;
+    left: 8%;
+    box-shadow: 3px 3px rgba(128, 128, 128, 0.297);
+}
+.hello-friends {
+    font-size: 150%;
+    width: 100%;
+    text-align: center;
+    color: rgb(14, 14, 48);
+    position: absolute;
+    top: 60%;
+    left: 8%;
+    
+}

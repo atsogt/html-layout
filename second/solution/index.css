@@ -61,9 +61,10 @@ body {
   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
 }
 
-.container-three h1 {
+.hello-friends {
   width: 100%;
   text-align: center;
   color: navy;
+  font-size: 200%;
   letter-spacing: 10px;
 }

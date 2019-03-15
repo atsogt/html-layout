@@ -1,0 +1,67 @@
+/* .nav {
+    background: rgb(123, 60, 60);
+    height: 30vh;
+    width: 100vw;
+} */
+
+.triangle2 {
+    background-color: red;
+    border-bottom: 300px solid black;
+    border-right: 300px px solid grey;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+
+}
+
+.triangle {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-top: 80px solid rgb(89, 73, 73) ;
+    border-right: 80px solid rgb(223, 223, 223);
+    border-bottom: 80px solid rgb(28, 25, 25);
+    border-left: 80px solid rgb(186, 178, 178);
+    position: absolute;
+    top: 20%;
+    left: 20%;
+
+}
+
+
+
+.grey {
+    background: grey;
+    height: 100vh;
+    width: 100vw;
+}
+.white {
+    height: 110px;
+    width: 110px;
+    background-color: rgb(222, 222, 222);
+    border-radius: 70%;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+  }
+  .line{
+      height: 1vh;
+      width: 100vw;
+      background: black;
+      position: absolute;
+    top: 70%;
+  }
+  .line2{
+    height: 1vh;
+    width: 100vw;
+    background: rgb(38, 38, 38);
+    position: absolute;
+  top: 72%;
+}
+.line3{
+    height: 1vh;
+    width: 100vw;
+    background: rgb(84, 84, 84);
+    position: absolute;
+  top: 74%;
+}
